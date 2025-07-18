@@ -2,7 +2,7 @@
 <h3 align="center">A Front & Backend Developer from Sri Lanka</h3>
 
 - 🌱 I’m currently learning **React and Flutter**
-- 👨‍💻 All of my projects are available at [thasidev.xyz](https://payhip.com/xYuKiZ3D)
+- 👨‍💻 All of my projects are available at [xyukiz.xyz](https://payhip.com/xYuKiZ3D)
 - 📫 How to reach me: **tharakasanjeewa206@gmail.com**
 
 ---
