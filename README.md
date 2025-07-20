@@ -26,34 +26,47 @@
 ### 🛠️ Languages and Tools
 
 <table>
+  
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
 <br>HTML
 </td>
+  
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
 <br>CSS
 </td>
+  
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
 <br>Tailwind
+</td>
+  
 <td align="center" width="96">
-<a href="#macropower-tech">
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-</a>
+<img src="https://skillicons.dev/icons?i=py" alt="icon" width="65" height="65" />
 <br>Python
 </td>
+  
 <td align="center" width="96">
-<img src="https://www.svgrepo.com/show/330868/lua.svg" alt="icon" width="65" height="65" />
+<img src="https://skillicons.dev/icons?i=lua" alt="icon" width="65" height="65" />
 <br>LUA
 </td>
+  
 <td align="center" width="96">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="icon" width="65" height="65" />
+<img src="https://skillicons.dev/icons?i=mysql" alt="icon" width="65" height="65" />
 <br>MySQL
 </td>
+  
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
+<img src="https://skillicons.dev/icons?i=github" width="65" height="65" alt="GitHub" />
 <br>Github
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=blender" width="65" height="65" alt="Blender" />
+<br>Blender
+</td>
+ 
 </table>
 
 ---
