@@ -66,7 +66,23 @@
 <img src="https://skillicons.dev/icons?i=blender" width="65" height="65" alt="Blender" />
 <br>Blender
 </td>
- 
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=discord" width="65" height="65" alt="Discord" />
+<br>Discord
+</td>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=ps" width="65" height="65" alt="Photoshop" />
+<br>Photoshop
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=pr" width="65" height="65" alt="PremierePro" />
+<br>Premiere Pro
+</td>
+</tr>
+
 </table>
 
 ---
