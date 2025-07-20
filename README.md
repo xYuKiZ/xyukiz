@@ -48,14 +48,6 @@
 <br>LUA
 </td>
 <td align="center" width="96">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="48" height="48" alt="ExpressJS" />
-<br>ExpressJS
-</td>
-<td align="center" width="96">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="48" height="48" alt="NodeJS" />
-<br>NodeJS
-</td>
-<td align="center" width="96">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="icon" width="65" height="65" />
 <br>MySQL
 </td>
