@@ -81,4 +81,4 @@
 
 ## What i'm doing now
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/855800106707058688)](https://discord.com/users/855800106707058688)
+[![Discord Presence](https://api.lanyard.rest/v1/users/855800106707058688)](https://discord.com/users/855800106707058688)
