@@ -98,8 +98,3 @@
   <p>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Riyon's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyukiz&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a> </p>
   <br/>
-
-
-## What i'm doing now
-
-[![Discord Presence](https://api.lanyard.rest/v1/users/855800106707058688)](https://discord.com/users/855800106707058688)
